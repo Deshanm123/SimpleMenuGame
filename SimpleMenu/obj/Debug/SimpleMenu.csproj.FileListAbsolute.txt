@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\SimpleMenu\SimpleMenu\bin\Debug\SimpleMenu.exe.config
+C:\Users\USER\source\repos\SimpleMenu\SimpleMenu\bin\Debug\SimpleMenu.exe
+C:\Users\USER\source\repos\SimpleMenu\SimpleMenu\bin\Debug\SimpleMenu.pdb
+C:\Users\USER\source\repos\SimpleMenu\SimpleMenu\obj\Debug\SimpleMenu.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\SimpleMenu\SimpleMenu\obj\Debug\SimpleMenu.exe
+C:\Users\USER\source\repos\SimpleMenu\SimpleMenu\obj\Debug\SimpleMenu.pdb
